@@ -397,6 +397,7 @@ wells
 went
 were
 what
+whats
 when
 where
 whether
